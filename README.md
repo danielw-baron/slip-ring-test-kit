@@ -1,8 +1,8 @@
 # **Slip Ring Test Kit**
-=
+
 
 ## Introduction
-=
+
 
 This Test Kit is responsible for testing and validating signals from the Stator to the Rotor within a Slip Ring Assembly. 
 This Test Kit in particular is based off of the BS300924 Slip Ring Assembly, found at the link below.
@@ -15,7 +15,7 @@ For a detailed documentation of the cable connections, refer to the Cable Assemb
 
 
 ## How-To
-=
+
 
 In order to begin testing the signal, first make each and every connection from Stator and Rator to the board. 
 The board is powered via a standard 20V 3A 5.5x2.5mm Barrel Jack Connector. 
@@ -28,7 +28,7 @@ You will now be able to toggle between each input using the up/down arrows, this
 
 
 ## Troubleshooting
-=
+
 
 First and foremost, feel free to reach out to me via my email: danielwilcox45@gmail.com
 
