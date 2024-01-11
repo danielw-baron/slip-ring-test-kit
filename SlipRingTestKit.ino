@@ -1,3 +1,7 @@
+// Author: Daniel Wilcox
+// Purpose: Create a touchscreen interface for LCD to allow testing of Slip Ring signals
+// Date Created: 06/29/23
+
 // required libraries
 #include "ILI9341_t3_Menu.h"          // custom utilities definition
 #include "ILI9341_t3.h"                  // high speed display that ships with Teensy
