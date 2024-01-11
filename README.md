@@ -18,7 +18,7 @@ Feel free to contact me via email at danielwilcox45@gmail.com.
 
 ### DISCLAIMER
 
-When troubleshooting, it is crucial never to send power to both the board and the microcontroller, Teensy 4.1, simultaneously. To connect to the Teensy 4.1, first ensure that the board is not connected to power. Then, connect to the Teensy using a Micro-USB cable.
+When troubleshooting, it is crucial to never send power to both the board and the microcontroller, Teensy 4.1, simultaneously. To connect to the Teensy 4.1, first ensure that the board is not connected to power. Then, connect to the Teensy using a Micro-USB cable.
 
 ### Software
 
